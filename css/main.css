@@ -36,6 +36,7 @@ img {
 .hero--info {
     width: 530;
     padding-top: 70px;
+    padding-block-end: 500px;
 }
 
 .hero--info h1 {
@@ -62,4 +63,75 @@ img {
     height: 100%;
     pointer-events: none;
     background: radial-gradient(circle at var(--x) var(--y), transparent 10%, rgba(0,0,0,0.95) 20%);
+}
+
+.joke1 {
+    padding-top: 0;
+}
+
+.joke1 h2 {
+    margin: 50px 0;
+}
+
+.joke2 {
+    padding-top: 350px;
+}
+.joke2 h2 {
+    margin: 50px 0;
+}
+
+.joke3 {
+    padding-top: 350px;
+}
+.joke3 h2 {
+    margin: 50px 0;
+}
+
+.joke4 {
+    padding-top: 350px;
+}
+.joke4 h2 {
+    margin: 50px 0;
+}
+
+.joke5 {
+    padding-top: 350px;
+}
+.joke5 h2 {
+    margin: 50px 0;
+}
+
+.joke6 {
+    padding-top: 350px;
+}
+.joke6 h2 {
+    margin: 50px 0;
+}
+
+.joke7 {
+    padding-top: 350px;
+}
+.joke7 h2 {
+    margin: 50px 0;
+}
+
+.joke8 {
+    padding-top: 350px;
+}
+.joke8 h2 {
+    margin: 50px 0;
+}
+
+.joke9 {
+    padding-top: 350px;
+}
+.joke9 h2 {
+    margin: 50px 0;
+}
+
+.joke10 {
+    padding-top: 350px;
+}
+.joke10 h2 {
+    margin: 50px 0;
 }
